@@ -1,0 +1,6 @@
+framework module SUReportDataSDK {
+  umbrella header "SUReportDataSDK.h"
+  export *
+
+  module * { export * }
+}
